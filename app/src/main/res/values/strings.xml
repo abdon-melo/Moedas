@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Conversor de Moedas</string>
+    <string name="titulo">Conversor de Moeda$</string>
+    <string name="hint">100.00</string>
+    <string name="instrucao">Entre com um valor para converter em R$:</string>
+    <string name="usd">USD - Dolar</string>
+    <string name="btc">BTC - Bitcoin</string>
+    <string name="eur">EUR - Euro</string>
+    <string name="btn">CONVERTER</string>
+    <string name="rodape">App feito por @zaymello.tech</string>
+</resources>
